@@ -1,4 +1,4 @@
 # homework
 ## Хозяин _Мария Семенова_
-*[почта](ma_shustik@mail.ru)
-*[telegram](lolchenok)
+*[почта](mailto:ma_shustik@mail.ru)
+*[telegram](https://t.me/lolchenok)
